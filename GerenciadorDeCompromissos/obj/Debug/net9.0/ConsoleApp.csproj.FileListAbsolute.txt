@@ -1,0 +1,45 @@
+/Users/evertoncoimbradearaujo/Documents/GitHub/aula14042025_poo/GerenciadorDeCompromissos/GerenciadorDeCompromissos/bin/Debug/net9.0/ConsoleApp
+/Users/evertoncoimbradearaujo/Documents/GitHub/aula14042025_poo/GerenciadorDeCompromissos/GerenciadorDeCompromissos/bin/Debug/net9.0/ConsoleApp.deps.json
+/Users/evertoncoimbradearaujo/Documents/GitHub/aula14042025_poo/GerenciadorDeCompromissos/GerenciadorDeCompromissos/bin/Debug/net9.0/ConsoleApp.runtimeconfig.json
+/Users/evertoncoimbradearaujo/Documents/GitHub/aula14042025_poo/GerenciadorDeCompromissos/GerenciadorDeCompromissos/bin/Debug/net9.0/ConsoleApp.dll
+/Users/evertoncoimbradearaujo/Documents/GitHub/aula14042025_poo/GerenciadorDeCompromissos/GerenciadorDeCompromissos/bin/Debug/net9.0/ConsoleApp.pdb
+/Users/evertoncoimbradearaujo/Documents/GitHub/aula14042025_poo/GerenciadorDeCompromissos/GerenciadorDeCompromissos/obj/Debug/net9.0/ConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/evertoncoimbradearaujo/Documents/GitHub/aula14042025_poo/GerenciadorDeCompromissos/GerenciadorDeCompromissos/obj/Debug/net9.0/ConsoleApp.AssemblyInfoInputs.cache
+/Users/evertoncoimbradearaujo/Documents/GitHub/aula14042025_poo/GerenciadorDeCompromissos/GerenciadorDeCompromissos/obj/Debug/net9.0/ConsoleApp.AssemblyInfo.cs
+/Users/evertoncoimbradearaujo/Documents/GitHub/aula14042025_poo/GerenciadorDeCompromissos/GerenciadorDeCompromissos/obj/Debug/net9.0/ConsoleApp.csproj.CoreCompileInputs.cache
+/Users/evertoncoimbradearaujo/Documents/GitHub/aula14042025_poo/GerenciadorDeCompromissos/GerenciadorDeCompromissos/obj/Debug/net9.0/ConsoleApp.sourcelink.json
+/Users/evertoncoimbradearaujo/Documents/GitHub/aula14042025_poo/GerenciadorDeCompromissos/GerenciadorDeCompromissos/obj/Debug/net9.0/ConsoleApp.dll
+/Users/evertoncoimbradearaujo/Documents/GitHub/aula14042025_poo/GerenciadorDeCompromissos/GerenciadorDeCompromissos/obj/Debug/net9.0/refint/ConsoleApp.dll
+/Users/evertoncoimbradearaujo/Documents/GitHub/aula14042025_poo/GerenciadorDeCompromissos/GerenciadorDeCompromissos/obj/Debug/net9.0/ConsoleApp.pdb
+/Users/evertoncoimbradearaujo/Documents/GitHub/aula14042025_poo/GerenciadorDeCompromissos/GerenciadorDeCompromissos/obj/Debug/net9.0/ConsoleApp.genruntimeconfig.cache
+/Users/evertoncoimbradearaujo/Documents/GitHub/aula14042025_poo/GerenciadorDeCompromissos/GerenciadorDeCompromissos/obj/Debug/net9.0/ref/ConsoleApp.dll
+C:\Faculdade\orientação a objetos\GerenciadorDeCompromissos\GerenciadorDeCompromissos\bin\Debug\net9.0\ConsoleApp.exe
+C:\Faculdade\orientação a objetos\GerenciadorDeCompromissos\GerenciadorDeCompromissos\bin\Debug\net9.0\ConsoleApp.deps.json
+C:\Faculdade\orientação a objetos\GerenciadorDeCompromissos\GerenciadorDeCompromissos\bin\Debug\net9.0\ConsoleApp.runtimeconfig.json
+C:\Faculdade\orientação a objetos\GerenciadorDeCompromissos\GerenciadorDeCompromissos\bin\Debug\net9.0\ConsoleApp.dll
+C:\Faculdade\orientação a objetos\GerenciadorDeCompromissos\GerenciadorDeCompromissos\bin\Debug\net9.0\ConsoleApp.pdb
+C:\Faculdade\orientação a objetos\GerenciadorDeCompromissos\GerenciadorDeCompromissos\obj\Debug\net9.0\ConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Faculdade\orientação a objetos\GerenciadorDeCompromissos\GerenciadorDeCompromissos\obj\Debug\net9.0\ConsoleApp.AssemblyInfoInputs.cache
+C:\Faculdade\orientação a objetos\GerenciadorDeCompromissos\GerenciadorDeCompromissos\obj\Debug\net9.0\ConsoleApp.AssemblyInfo.cs
+C:\Faculdade\orientação a objetos\GerenciadorDeCompromissos\GerenciadorDeCompromissos\obj\Debug\net9.0\ConsoleApp.csproj.CoreCompileInputs.cache
+C:\Faculdade\orientação a objetos\GerenciadorDeCompromissos\GerenciadorDeCompromissos\obj\Debug\net9.0\ConsoleApp.sourcelink.json
+C:\Faculdade\orientação a objetos\GerenciadorDeCompromissos\GerenciadorDeCompromissos\obj\Debug\net9.0\ConsoleApp.dll
+C:\Faculdade\orientação a objetos\GerenciadorDeCompromissos\GerenciadorDeCompromissos\obj\Debug\net9.0\refint\ConsoleApp.dll
+C:\Faculdade\orientação a objetos\GerenciadorDeCompromissos\GerenciadorDeCompromissos\obj\Debug\net9.0\ConsoleApp.pdb
+C:\Faculdade\orientação a objetos\GerenciadorDeCompromissos\GerenciadorDeCompromissos\obj\Debug\net9.0\ConsoleApp.genruntimeconfig.cache
+C:\Faculdade\orientação a objetos\GerenciadorDeCompromissos\GerenciadorDeCompromissos\obj\Debug\net9.0\ref\ConsoleApp.dll
+C:\Faculdade\orientação a objetos\GerenciadorDeCompromissos\obj\Debug\net9.0\ConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Faculdade\orientação a objetos\GerenciadorDeCompromissos\obj\Debug\net9.0\ConsoleApp.AssemblyInfoInputs.cache
+C:\Faculdade\orientação a objetos\GerenciadorDeCompromissos\obj\Debug\net9.0\ConsoleApp.AssemblyInfo.cs
+C:\Faculdade\orientação a objetos\GerenciadorDeCompromissos\obj\Debug\net9.0\ConsoleApp.csproj.CoreCompileInputs.cache
+C:\Faculdade\orientação a objetos\GerenciadorDeCompromissos\obj\Debug\net9.0\ConsoleApp.sourcelink.json
+C:\Faculdade\orientação a objetos\GerenciadorDeCompromissos\obj\Debug\net9.0\ConsoleApp.dll
+C:\Faculdade\orientação a objetos\GerenciadorDeCompromissos\obj\Debug\net9.0\refint\ConsoleApp.dll
+C:\Faculdade\orientação a objetos\GerenciadorDeCompromissos\obj\Debug\net9.0\ConsoleApp.pdb
+C:\Faculdade\orientação a objetos\GerenciadorDeCompromissos\bin\Debug\net9.0\ConsoleApp.exe
+C:\Faculdade\orientação a objetos\GerenciadorDeCompromissos\bin\Debug\net9.0\ConsoleApp.deps.json
+C:\Faculdade\orientação a objetos\GerenciadorDeCompromissos\bin\Debug\net9.0\ConsoleApp.runtimeconfig.json
+C:\Faculdade\orientação a objetos\GerenciadorDeCompromissos\bin\Debug\net9.0\ConsoleApp.dll
+C:\Faculdade\orientação a objetos\GerenciadorDeCompromissos\bin\Debug\net9.0\ConsoleApp.pdb
+C:\Faculdade\orientação a objetos\GerenciadorDeCompromissos\obj\Debug\net9.0\ConsoleApp.genruntimeconfig.cache
+C:\Faculdade\orientação a objetos\GerenciadorDeCompromissos\obj\Debug\net9.0\ref\ConsoleApp.dll
