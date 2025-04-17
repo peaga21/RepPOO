@@ -1,3 +1,4 @@
+Pedro Henrique Dias, Antony Yassen
 # Meu Gerenciador de Compromissos
 
 Um projeto em C# para agendar compromissos, desenvolvido para a disciplina de Orientação a Objetos.
